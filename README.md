@@ -18,7 +18,3 @@ This project analyzes a retail sales dataset to uncover insights about store per
 - Holiday weeks generat higher sales than Working weeks
 - A few top stores contributed the majority of sales
 - External economic factors showed noticeable correlation with sales
-
-## 📂 Repository Structure
-- `data/` → Dataset files
-- `powerbi/` → Power BI dashboard (`.pbix` file)
